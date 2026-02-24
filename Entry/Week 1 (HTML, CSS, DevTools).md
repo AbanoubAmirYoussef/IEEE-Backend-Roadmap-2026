@@ -25,7 +25,7 @@
 
 - Remember the old Facebook page from 2011? Won't it be nostalgic to design it yourself?
     
-    ![Facebook page](https://raw.githubusercontent.com/AbanoubAmirYoussef/IEEE-Backend-Roadmap-2025/refs/heads/main/Entry/images/fb.png)
+    ![Facebook page](https://raw.githubusercontent.com/AbanoubAmirYoussef/IEEE-Backend-Roadmap-2026/refs/heads/main/Entry/images/fb.png)
     
 - Mazen created a new local HTML & CSS project where the `index.html` file is located at `C:/Users/mazen/website/`. He needed to add some external styles and assets to his HTML file, but he got confused with different types of paths.
 Help Mazen know the full path for the following inputs:
